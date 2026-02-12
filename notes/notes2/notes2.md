@@ -39,6 +39,22 @@ Lecture 2 Introduction to Linux Notes (this is the tittle of the document - Head
 
 7. List and define the different types of licensing agreements
    
-5.  What is Free Software? Define the 4 freedoms.
+ * Open Source: the software may be distributed for a fee or free. The source code is shared with the software.
+ * Closed Source: the software not distributed with the source code. The user is restricted from modifying the code.
+  * Freeware: the software is free though excludes the availability of the source code.
+  * Shareware: the software is free on a trial basis.
+
+8.  What is Free Software? Define the 4 freedoms.
    
-6.  What is virtualization?
+Free software: the software along with the source code are distributed. The software can be free or obtained by a fee.
+
+* Freedom 0: use the software for any purpose.(sandbox)
+* Freedom 1: examine the source code and modify it as you see fit.
+* Freedom 2: redistribute the software.
+* Freedom 3: redistribute your modified software.
+   
+9.  What is virtualization?
+
+Virtualization is to create virtual versions of something. I
+
+* It is often used to let multiple OS's run on one real machine at the same time.
