@@ -1,11 +1,14 @@
+## Notes 4
+
 ### 1. How to install and remove software using the APT command
 
 #### To install software
-* sudo apt install (...)
+* sudo apt install [...]
 
 #### To remove software
-*sudo apt remove
-*sudo apt purge
+* sudo apt remove [...]
+
+* sudo apt purge [...]
 
 #### Honorable mention
 * sudo apt auto (either clean, remove, or purge)
