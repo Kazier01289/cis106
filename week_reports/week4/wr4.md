@@ -1,5 +1,7 @@
 # Week Report 4
-[Lab4](../../labs/lab4/lab4.md)
+
+[lab4](../../labs/lab4/lab4.md)
+
 [notes](../../notes/notes/notes4/notes4.md)
 
 # Practice 1 Managing software
