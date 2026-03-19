@@ -1,5 +1,4 @@
 # Lab5
-
 ## Question 1
 ![img](q1.1.png)
 ![img](q1.2.png)
