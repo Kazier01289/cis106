@@ -39,5 +39,3 @@
 
 
 10. The difference is that the user's home directory houses the user's content while "The home directory" houses the users.
-
-hollow
